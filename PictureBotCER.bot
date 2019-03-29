@@ -1,0 +1,52 @@
+{
+  "name": "PictureBotCER",
+  "padlock": "k3oaz9auJAR68XUCDifKXg==!Xo5OBDRtJkNIgw4eF5fH+46+oUmZl/8gylLq9IrR5Fa/p3iXxokyXbbL+hYyfNIX",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "f94768c8-8714-4abe-8e2d-37a64b18216a",
+      "subscriptionId": "4e09b5ee-747c-4bc6-b0d6-37550536c1a6",
+      "resourceGroup": "ODL-ia-59235",
+      "serviceName": "PictureBotCER",
+      "type": "abs",
+      "name": "PictureBotCER",
+      "id": "1"
+    },
+    {
+      "connectionString": "pbHbIm0qKIiMqTzaHN0CRQ==!TUWb53F9P/y0u27p/X/c5AadeDknTpuBnUSE+kU7gKA8FBkm2EMKQHgeSbQmKZRPGdNMPnLIiucGsAtpZN+Mt0dRjOxtAGH0Q3207ifSk7YXUb0HDA7LAPoF+616ufFItFOcAiHWTjyWgI+nDTbENnC0MITZp4kqSPy2QVm4eoUeriatx4ptT3rKXYsIloDTbqDTi+0fIV997cW/4aWeYnBJFDexgHvHNMHZWihAjew=",
+      "tenantId": "f94768c8-8714-4abe-8e2d-37a64b18216a",
+      "subscriptionId": "4e09b5ee-747c-4bc6-b0d6-37550536c1a6",
+      "resourceGroup": "ODL-ia-59235",
+      "serviceName": "picturebotcer86aa",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "402a31cd-a145-44d4-9b04-4f9a38968931",
+      "appPassword": "xx2uOl1h9RjFSUrvqPOQBg==!yVDLTj3tTBRH6rnt1s2Oe1VeSMBPtrzUI86WttbkJPQ=",
+      "endpoint": "https://picturebotcer.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "DbXwpjY+mf5/FS71hE1eIw==!zWCijVFwIinmEW8PJHsnwfsccvUAK3A6IP5XOp6klBQFvII/jK2EHSQIDbVSxj6l",
+      "applicationId": "6eb0c7e4-d82a-4942-b3ce-0a8c359b0f64",
+      "apiKeys": {},
+      "tenantId": "f94768c8-8714-4abe-8e2d-37a64b18216a",
+      "subscriptionId": "4e09b5ee-747c-4bc6-b0d6-37550536c1a6",
+      "resourceGroup": "ODL-ia-59235",
+      "serviceName": "PictureBotCERbkiw2f",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}
